@@ -1,1 +1,1 @@
-# Visit https://techprv.netlify.app
+# Visit https://techprv.vercel.app
